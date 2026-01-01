@@ -6,3 +6,9 @@ The list of classes each project was worked on are as follows:
 - CIS 397: Advanced Data Analysis: Networks
 - CIS 343: Advanced Simulations in Python
 - CIS 400: Senior Capstone
+
+# Acknowledgements
+Some people I'd like to acknowledge include my professors at Washington &amp; Jefferson College, which include:
+  - Dr. John Ladd
+  - Dr. Rebecca Rapp
+  - Dr. Charles Hannon
