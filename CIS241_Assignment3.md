@@ -57,3 +57,6 @@ This project serves as a demonstration of strong analytical thinking skills, inc
 - Pandas
 - NumPy
 - Altair
+
+## Source
+https://creativecommons.org/licenses/by/4.0/
