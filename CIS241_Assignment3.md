@@ -60,3 +60,6 @@ This project serves as a demonstration of strong analytical thinking skills, inc
 
 ## Source
 https://creativecommons.org/licenses/by/4.0/
+
+## Acknowledgements
+- Dr. John R. Ladd
