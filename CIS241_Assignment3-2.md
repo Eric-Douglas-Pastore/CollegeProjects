@@ -24,5 +24,6 @@ This project is part of my academic journey at W&J College for data analysis. It
 Overall, this project lists step-by-step data analysis on Airbnb prices that emphasizes exploratory analysis, structured reasoning, and clear communication of observations, making it easy to understand for people without a mathematical, statistical, and analytical mindset.
 
 ## Source
-
+https://creativecommons.org/licenses/by/4.0/
 ## Acknowledgements
+Dr. John Ladd
