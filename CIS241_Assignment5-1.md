@@ -34,6 +34,3 @@ This project demonstrates strong data analytics skills, including:
 https://dev.socrata.com/foundry/chronicdata.cdc.gov/6vp6-wxuq
 ## Acknowledgements
 Dr. John R. Ladd
-
-## Acknowledgements 
-
